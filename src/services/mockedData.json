@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "resource": "landing-page",
+  "published_at": "2022-02-01T09:47:15.125Z",
+  "created_at": "2022-02-01T09:46:39.363Z",
+  "updated_at": "2022-02-01T09:59:06.012Z",
+  "blocks": [
+    {
+      "__component": "blocks.hero",
+      "id": 1,
+      "title": "Test Page",
+      "subtitle": "This is a test of how render pages dynamically"
+    },
+    {
+      "__component": "blocks.content",
+      "id": 1,
+      "blockContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac leo id nunc malesuada rhoncus ut et erat. Curabitur faucibus magna tortor, sed condimentum tortor vulputate id. Sed mattis, elit at laoreet vulputate, turpis lorem rhoncus quam, sit amet consequat urna ligula sed mi. Quisque eu gravida sapien, ornare suscipit urna. Donec sodales lectus sed est aliquam, at laoreet eros pharetra. Donec sollicitudin justo lectus, quis dapibus justo commodo tristique. Maecenas commodo dignissim metus ut varius. Sed non egestas justo, vitae mollis sapien. Sed vehicula eros a urna tincidunt, sed finibus neque feugiat. Sed in nisl vitae elit cursus varius. Nam ac porta lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent nisi turpis, fringilla eget arcu at, ultrices pellentesque diam. Vestibulum id lorem eros. Fusce eget ex facilisis, vestibulum elit vitae, imperdiet ex.\n\nVivamus lorem mi, viverra id lacinia ac, dignissim quis risus. Curabitur blandit ultricies felis, nec condimentum nisi dignissim et. Vivamus dolor velit, facilisis id eros vel, maximus mollis mi. Nam cursus, neque ut vehicula pretium, ligula elit laoreet mi, id malesuada orci urna aliquam risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est nulla, bibendum et ligula sit amet, accumsan cursus dui. Mauris varius lectus sed velit efficitur interdum. Vivamus nibh massa, scelerisque efficitur nibh ac, finibus scelerisque enim. Duis dolor magna, varius ut cursus sit amet, vehicula sit amet lorem. Ut faucibus interdum mi et rhoncus. Fusce mattis purus eu nisi aliquet, sagittis imperdiet magna consectetur. Pellentesque tempus, dui nec vestibulum varius, orci sapien ultricies lorem, eu porta velit ipsum nec purus. Praesent tincidunt in lectus sit amet dapibus. Aliquam eros libero, consequat et congue vitae, iaculis vitae dolor.\n\nCurabitur nec porttitor sapien, at dapibus augue. Vivamus ac dolor mattis, molestie augue sed, accumsan nisi. Sed posuere ac diam sit amet dapibus. Nulla non risus ut quam blandit accumsan. Ut ut justo ut nisl cursus consequat. Vivamus at ante metus. Phasellus eu hendrerit purus, quis consequat ex. Nam semper purus ac consectetur sollicitudin. Morbi tortor mauris, tristique a tellus quis, vehicula luctus lorem. Ut libero purus, vulputate non fermentum quis, fringilla gravida magna. Pellentesque sollicitudin, libero ut blandit accumsan, nulla dui viverra risus, id ultricies ex orci a risus."
+    },
+    {
+      "__component": "blocks.footer",
+      "id": 1,
+      "copyright": "All rights reserved."
+    }
+  ]
+}
